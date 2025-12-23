@@ -1,3 +1,3 @@
 # Project Demo Video
-🎥 https://www.youtube.com/watch?v=
+🎥 [Click this to watch our IoT presentation & demonstration] https://www.youtube.com/watch?v=
 
