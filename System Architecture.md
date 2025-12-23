@@ -1,6 +1,6 @@
 ![System Diagram](https://github.com/user-attachments/assets/b5a9df77-3320-4874-8393-ff57d434966f)
 
-# Hardware Description
+# HARDWARE DESCRIPTION
 1.	Arduino UNO R3
 -	It is a central microcontroller.
 -	Reads sensor inputs, processes the data, and controls actuators (fan and lights).
@@ -36,11 +36,11 @@
 -	Connect the microcontroller (Arduino UNO) to the internet.
 -	Sends sensor data to ThingSpeak for storage, visualization, and remote monitoring.
 
-# Communication Protocol
+# COMUNICATION PROTOCOL
 The Wi-Fi connection signals and HTTP requests data are transferred between the Arduino UNO and Cytron ESP8266 WiFi Shield through UART serial communication using TX and RX
 pins. The ESP8266 is connected to the internet through a Wi-Fi router based on the IEEE 802.11 b/g/n standards because the ESP8266 only supports the 2.4 Ghz, which is secured by WPA/WPA2 encryption. The ThingSpeak dashboard through HTTPS is secured by the cloud server TLS, the data from sensors is transferred from the ESP8266 side to the ThingSpeak cloud server through HTTP/TCPIP port 80 authenticated by the API key.
 
-# Data Flow
+# FDATA FLOW
 ## Step 1: Data Acquisition (Perception Layer)
 -	The PIR motion sensor detects movement and outputs a digital signal (HIGH or LOW), LED ON or OFF.
 -	The LM35 temperature sensor measures ambient temperature and outputs an analog voltage proportional to temperature.
