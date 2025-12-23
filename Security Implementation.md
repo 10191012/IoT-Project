@@ -1,3 +1,6 @@
+<img width="1919" height="389" alt="Screenshot 2025-12-19 135400" src="https://github.com/user-attachments/assets/2cf5250b-4a19-4ab8-b38f-7c0f21d58598" />
+<img width="1917" height="1001" alt="Screenshot 2025-12-19 135724" src="https://github.com/user-attachments/assets/81564693-3bf4-45fe-984c-6e6af1726635" />
+
 # SECURITY MECHANISM
 
 Security is a critical component of IoT systems since sensor data is sent over the internet. In this project, the Internet of Things node is an Arduino Uno.
