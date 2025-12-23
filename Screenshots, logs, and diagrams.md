@@ -23,7 +23,7 @@
 <img width="289" height="268" alt="Picture1" src="https://github.com/user-attachments/assets/19769a5c-2aa7-48a0-817d-9a0d437eba66" />
 
 # SECURITY MECHANISM SCREENSHOTS (HTTP OVER TLS / HTTPS)
-<img width="1917" height="1001" alt="Screenshot 2025-12-19 135724" src="https://github.com/user-attachments/assets/e5b285fd-9920-4af0-84dc-12e7c3cde45b" 
+<img width="1917" height="1001" alt="Screenshot 2025-12-19 135724" src="https://github.com/user-attachments/assets/e5b285fd-9920-4af0-84dc-12e7c3cde45b"/>
   
 <img width="1919" height="389" alt="Screenshot 2025-12-19 135400" src="https://github.com/user-attachments/assets/f5fac8fc-2ab6-49c2-b8f4-ec451424da60" />
 
