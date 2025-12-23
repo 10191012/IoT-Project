@@ -1,4 +1,4 @@
-ABSTRACT 
+# ABSTRACT
 This project presents the design and implementation of a smart home automation system based on Internet of Things (IoT) technology 
 for real-time monitoring and automated control. The system employs an Arduino Uno microcontroller integrated with a PIR motion sensor 
 and an LM35 temperature sensor to detect human presence and ambient temperature conditions. Lighting is activated upon motion detection, 
@@ -7,7 +7,7 @@ Wireless connectivity is provided by an Arduino Wi-Fi Shield, enabling periodic 
 and remote monitoring. The system software is developed using a modular programming approach to manage sensor data acquisition, actuator control, and cloud communication. 
 The implemented prototype demonstrates reliable sensor-based automation, real-time cloud monitoring, and improved energy efficiency in a smart home environment.
 
-INTRODUCTION
+# INTRODUCTION
 With the increasing demand for energy efficiency, comfort, and safety in modern living environments, traditional home and building systems are no longer sufficient to meet 
 current user expectations. Conventional lighting and temperature control systems often rely on manual operation, which can result in energy wastage, 
 inconsistent environmental conditions, and reduced user convenience. In addition, the lack of real-time monitoring makes it difficult for users to track environmental conditions 
