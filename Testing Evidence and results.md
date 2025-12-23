@@ -32,9 +32,7 @@ the smart home automation system was assessed. The following steps made up the t
 ## 6.	System Integration Testing
 -	Observed the interaction between the motion sensor, temperature sensor, fan control, and cloud visualization to ensure correct system operation.
 -	Measured latency between sensor detection, fan activation, and data updates on the ThingSpeak platform.
-<img width="373" height="600" alt="Screenshot 2025-12-15 233137" src="https://github.com/user-attachments/assets/fb322d40-347b-4723-8cf1-c49789c56f44" />
-Figure 4.1
-
+<img width="373" height="600" alt="Screenshot 2025-12-15 233137" src="https://github.com/user-attachments/assets/fb322d40-347b-4723-8cf1-c49789c56f44" /> Figure 4.1
 
 Figure 4.1 shows the Arduino IDE Serial Monitor, which is used for debugging and verifying system operation during runtime. The serial output displays real-time temperature readings, motion detection status, and actuator states such as the fan and light. The output displayed confirms that sensor data acquisition, decision-making logic, and cloud communication are functioning as intended.
 -	Messages such as “Motion Detected! Light ON” and “No Motion. Light OFF” confirm correct PIR sensor functionality.
