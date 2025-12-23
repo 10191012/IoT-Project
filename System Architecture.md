@@ -1,4 +1,5 @@
-![System Diagram](https://github.com/user-attachments/assets/b5a9df77-3320-4874-8393-ff57d434966f) Figure 1
+![System Diagram](https://github.com/user-attachments/assets/b5a9df77-3320-4874-8393-ff57d434966f) 
+Figure 1
 
 # HARDWARE DESCRIPTION
 1.	Arduino UNO R3
