@@ -40,3 +40,11 @@ Figure 4.1 shows the Arduino IDE Serial Monitor, which is used for debugging and
 -	Status messages such as “Data uploaded to ThingSpeak successfully” verify successful wireless data transmission, while error messages like one that was displayed in
   figure 4.1 (HTTP response errors) assist in diagnosing connectivity or authentication issues.
 
+
+<img width="1029" height="877" alt="Screenshot 2025-12-17 111449" src="https://github.com/user-attachments/assets/7cb2843d-d85f-4206-bea3-c003ff327d23" /> Figure 4.2
+
+Figure 4.2 shows our ThingSpeak cloud dashboard used for real-time monitoring of the Intelligent Lighting and Temperature Control System. Sensor data transmitted from the Arduino Uno via the Wi-Fi Shield is visualized using multiple charts and widgets. These visualizations allow users to remotely observe environmental conditions, system activity, and actuator behavior in real time, as well as analyze historical trends.
+•	Field 1 represents motion or lighting status, showing when motion is detected and lights are activated.
+•	Field 2 displays temperature readings over time captured by the LM35 temperature sensor.
+•	Field 3 indicates the fan state (ON/OFF) based on temperature thresholds.
+•	The light indicator widget provides a visual representation of the current lighting status.
