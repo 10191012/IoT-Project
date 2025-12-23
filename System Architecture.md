@@ -1,3 +1,5 @@
+![System Diagram](https://github.com/user-attachments/assets/b5a9df77-3320-4874-8393-ff57d434966f)
+
 # Hardware Description
 1.	Arduino UNO R3
 -	It is a central microcontroller.
