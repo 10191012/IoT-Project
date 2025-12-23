@@ -1,8 +1,8 @@
 # Hardware Description
 1.	Arduino UNO R3
-*•	It is a central microcontroller.
-*•	Reads sensor inputs, processes the data, and controls actuators (fan and lights).
-*•	Handles communication with the cloud server (ThingSpeak) over Wi-Fi.
+-	It is a central microcontroller.
+-	Reads sensor inputs, processes the data, and controls actuators (fan and lights).
+-	Handles communication with the cloud server (ThingSpeak) over Wi-Fi.
 
 2.	PIR Motion Sensor
 •	Detects the movement in the range.
