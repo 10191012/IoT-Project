@@ -19,6 +19,9 @@
 
 <img width="751" height="375" alt="Screenshot 2025-12-23 132839" src="https://github.com/user-attachments/assets/afabf8f4-4532-44e0-b901-7509d953e8b6" />
 
+# HARDWARE AND SOFTWARE IMPLEMENTATION DETAILS
+<img width="289" height="268" alt="Picture1" src="https://github.com/user-attachments/assets/19769a5c-2aa7-48a0-817d-9a0d437eba66" />
+
 # SECURITY MECHANISM SCREENSHOTS (HTTP OVER TLS / HTTPS)
 <img width="1917" height="1001" alt="Screenshot 2025-12-19 135724" src="https://github.com/user-attachments/assets/e5b285fd-9920-4af0-84dc-12e7c3cde45b" 
   
